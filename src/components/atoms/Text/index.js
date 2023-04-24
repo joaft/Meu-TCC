@@ -9,7 +9,7 @@ export const CustomText  = () => {
 
 const styles = StyleSheet.create({
     titleText: {
-      color: '#0000',
+      color: '#010101',
       fontSize: 24,
       fontWeight: 'bold',
       marginTop:50,
